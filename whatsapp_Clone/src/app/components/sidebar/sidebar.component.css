@@ -44,9 +44,10 @@
 }
 
 .avatarContainer{
-  flex-basis: 43px;
+  width:20%;
   height: 43px;
-  border: 1px sold red;
+  border: 1px solid red;
+  border-radius: 50px;
 
 }
 
